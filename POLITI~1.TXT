@@ -1,0 +1,206 @@
+NOTA: Este .txt es solo una copia de referencia rápida. El agente (agente.py)
+necesita el PDF original en data/politica_reembolsos_bimbam_buy.pdf (usa
+PyPDFLoader). Descarga el PDF oficial desde:
+https://cdn1.gnarususercontent.com.br/documents/6/internal/1f8444c5-5e8d-4fdb-9b68-19588fbb2d2a.pdf
+y guárdalo en una carpeta llamada "data/" dentro del proyecto.
+
+===============================================================
+Política de Reembolsos y Devoluciones de BimBam Buy
+===============================================================
+
+Índice
+1. Propósito
+2. Alcance
+3. Principios generales
+4. Definiciones operativas
+5. Plazos de solicitud
+6. Canales de atención
+7. Condiciones para aceptar una devolución
+8. Casos elegibles
+9. Casos no elegibles
+10. Flujo de atención
+11. Reembolsos parciales
+12. Costos de devolución
+13. Relación con envíos
+14. Relación con garantía
+15. Relación con pagos
+16. Casos por país
+17. Evidencias requeridas
+18. Ejemplos operativos
+19. Tiempos de resolución
+20. Cierre y comunicación
+21. Criterios complementarios de evaluación
+22. Gestión de solicitudes especiales
+23. Coordinación interáreas
+24. Trazabilidad y registro interno
+25. Reglas de comunicación al cliente
+26. Escenarios de resolución frecuente
+27. Recomendaciones operativas para soporte
+28. Notas de coordinación con otros documentos
+29. Matriz orientativa de decisión
+30. Preguntas frecuentes internas
+31. Criterios de escalamiento
+32. Registro de excepciones autorizadas
+
+---
+
+1. Propósito
+La presente política establece las condiciones, plazos, pasos y excepciones aplicables a
+solicitudes de devolución, cambio y reembolso realizadas por clientes de BimBam Buy en
+compras efectuadas a través de nuestros canales oficiales de venta en LATAM.
+
+2. Alcance
+Aplica a compras en la tienda online, compras procesadas por atención al cliente con
+confirmación de orden, productos despachados dentro de LATAM, y solicitudes por retracto,
+producto incorrecto, daño en tránsito, falla de fábrica o faltante parcial.
+No aplica a compras por canales no oficiales, productos personalizados (salvo falla de fábrica),
+productos con sellos alterados, casos fuera de plazo, fraude comprobado o casos ya cerrados.
+
+3. Principios generales
+Validación rápida, comunicación clara, solución consistente, trazabilidad del pedido y
+coordinación con logística, pagos y garantía cuando corresponda.
+
+4. Definiciones operativas
+- Reembolso: devolución del dinero, total o parcial.
+- Devolución: retorno físico del producto.
+- Cambio: sustitución por otro producto igual o equivalente.
+- Falla de fábrica: defecto de origen no provocado por el cliente.
+- Daño en tránsito: deterioro ocurrido durante el transporte.
+- Pedido incorrecto: entrega distinta a lo comprado.
+- Retracto: desistimiento de la compra dentro del plazo aplicable.
+- Faltante parcial: pedido incompleto.
+
+5. Plazos de solicitud
+- Retracto: 10 días corridos desde la recepción del pedido.
+- Producto incorrecto, faltante o daño visible: 48 horas desde la entrega, con evidencia.
+- Falla de funcionamiento: dentro del período de garantía.
+- Reembolso aprobado: se procesa en 5 a 10 días hábiles según método de pago y país.
+- Casos con revisión extendida: el plazo puede extenderse informando al cliente.
+
+6. Canales de atención
+Centro de ayuda web, formulario de postventa, chat de soporte, correo de atención al cliente.
+No se consideran válidas solicitudes por canales no oficiales o redes sociales sin derivación formal.
+
+7. Condiciones para aceptar una devolución
+Comprobante de compra, dentro del plazo, producto completo con accesorios, sin señales de
+uso incompatibles, empaque original cuando corresponda, sin reparación externa no autorizada.
+
+8. Casos elegibles
+Retracto, error de despacho, producto dañado (reportado en 48h), falla cubierta por garantía,
+faltante parcial validable, incidencia de entrega atribuible a la operación.
+
+9. Casos no elegibles
+Uso indebido, instalación incorrecta, daños por agua/fuego/humedad no asociados a fábrica,
+consumibles abiertos sin defecto, artículos alterados, solicitudes fuera de plazo, insatisfacción
+subjetiva, pérdida de accesorios por custodia del cliente, daños estéticos menores, evidencia
+insuficiente.
+
+10. Flujo de atención
+1) Recepción de la solicitud. 2) Validación inicial (orden, fecha, motivo, evidencia,
+elegibilidad). 3) Clasificación (retracto/cambio/reembolso/garantía/incidencia logística).
+4) Resolución (reembolso total/parcial, cambio, revisión por garantía, rechazo fundamentado).
+5) Cierre con confirmación al cliente. 6) Confirmación operativa y registro interno.
+
+11. Reembolsos parciales
+Aplica cuando falta un accesorio no esencial, la incidencia es compensable proporcionalmente,
+el cliente acepta conservar parte del pedido con compensación, o no es necesaria la devolución
+física. Debe quedar registrado motivo, monto y aprobación interna.
+
+12. Costos de devolución
+- Por retracto: puede asumirlo el cliente (según legislación local).
+- Por error de BimBam Buy: sin costo para el cliente.
+- Por garantía: BimBam Buy asume el costo logístico.
+- Por incidencia compartida: se define distribución del costo según evidencia y normativa.
+
+13. Relación con envíos
+Casos de entregas tardías, extravíos o daños en tránsito se evalúan junto con la Guía de
+Tiempos y Costos de Envío de BimBam Buy, usando el número de seguimiento como evidencia.
+
+14. Relación con garantía
+Fallas posteriores a la entrega se manejan primero bajo el Manual de Garantía de Productos.
+
+15. Relación con pagos
+Los reembolsos se procesan al mismo medio de pago usado en la compra, salvo imposibilidad
+técnica o normativa, en cuyo caso el área de pagos ofrece una alternativa equivalente.
+
+16. Casos por país
+Se respeta la legislación local aplicable, manteniendo la lógica interna de validación; puede
+requerirse documentación adicional según regulación local.
+
+17. Evidencias requeridas
+Foto del producto, video de funcionamiento/daño, foto de empaque y etiqueta, comprobante de
+recepción, número de serie, descripción del incidente, captura del error, evidencia de contenido
+recibido.
+
+18. Ejemplos operativos
+- Ejemplo 1: producto distinto al comprado, evidencia dentro de 48h -> devolución sin costo,
+  reenvío o reembolso.
+- Ejemplo 2: cliente cambia de opinión, dentro de 10 días, sin uso -> devolución por retracto.
+- Ejemplo 3: producto deja de encender al mes -> se revisa por garantía; si es falla de origen,
+  cambio o reparación.
+- Ejemplo 4: accesorio faltante, producto principal correcto -> reembolso parcial o envío del
+  faltante.
+
+19. Tiempos de resolución
+Acuse de recibo: inmediato o 24h hábiles. Validación inicial: 1 a 3 días hábiles. Reembolso:
+5 a 10 días hábiles tras aprobación.
+
+20. Cierre y comunicación
+Comunicación clara, amable y directa: qué se aprobó, qué se rechazó, por qué, próximos pasos
+y plazos.
+
+21. Criterios complementarios de evaluación
+Comportamiento histórico de la cuenta, reincidencia de reclamos, coherencia entre canales,
+evidencia de manipulación posterior, posible error de bodega, compatibilidad con el producto.
+
+22. Gestión de solicitudes especiales
+Barreras de idioma/accesibilidad, dificultad para adjuntar evidencia, zonas de cobertura
+compleja, afectación urgente, compensaciones comerciales extraordinarias.
+
+23. Coordinación interáreas
+Atención al cliente, logística, almacén, pagos, Experiencia del Cliente, garantía, operador
+logístico externo.
+
+24. Trazabilidad y registro interno
+ID de caso, orden vinculada, fecha de solicitud, motivo, evidencia, decisión, estado, fecha de
+cierre.
+
+25. Reglas de comunicación al cliente
+Clara, respetuosa, consistente, sin tecnicismos innecesarios, sin promesas antes de validar.
+
+26. Escenarios de resolución frecuente
+Producto incorrecto con evidencia completa -> cambio o reembolso. Falla fuera de plazo ->
+garantía o rechazo. Pedido incompleto con evidencia parcial -> verificación o ajuste
+proporcional. Retracto con producto usado -> rechazo si excede lo permitido. Daño en tránsito
+confirmado -> devolución, reemplazo o reembolso.
+
+27. Recomendaciones operativas para soporte
+Confirmar número de orden, revisar evidencia mínima antes de clasificar, cruzar información
+con envíos/pagos/garantía, lenguaje simple y profesional, escalar casos fuera de protocolo,
+documentar cada resolución.
+
+28. Notas de coordinación con otros documentos
+Debe leerse junto con la Guía de Tiempos y Costos de Envío, las Preguntas Frecuentes sobre
+Métodos de Pago y el Manual de Garantía de Productos de BimBam Buy.
+
+29. Matriz orientativa de decisión
+Cambio de opinión -> revisar retracto/plazo/estado/categoría. Producto incorrecto -> verificar
+orden/evidencia/fecha. Producto dañado -> valorar daño/embalaje/tiempo de reporte. Pedido
+incompleto -> comprobar faltante/recepción/evidencia. Falla tras uso -> derivar a garantía.
+
+30. Preguntas frecuentes internas
+- ¿Puede aprobarse devolución sin retorno físico? Sí, cuando la incidencia lo permite y el área
+  responsable lo autoriza.
+- ¿Cambio sin devolver el producto? Solo en casos excepcionales con aprobación documentada.
+- ¿Cliente rechaza devolver el producto? Se explica la condición necesaria y se registra la
+  negativa.
+- ¿Evidencia no concluyente? Se solicita información adicional o se escala.
+- ¿Se puede combinar compensación y reenvío? Sí, si el caso lo justifica y queda registrado.
+
+31. Criterios de escalamiento
+Cobro sin orden visible, discrepancia entre evidencia y relato, impacto reputacional potencial,
+cliente solicita revisión de nivel superior, categoría sensible o con normativa especial.
+
+32. Registro de excepciones autorizadas
+Motivo de la excepción, área aprobadora, fecha, impacto operativo, resolución aplicada,
+vigencia de la autorización.
